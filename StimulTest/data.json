@@ -1,0 +1,90 @@
+{
+    "CompanyName": "PERFECT IMAGE + SDN BHD",
+    "TaxFileNo": "C2018512710",
+    "YearOfAssessment": "2021",
+    "BasisPeriod": "18/01/2021 To 31/12/2021",
+    "Schedule": "E",
+    "ReportTitle": "Pioneer",
+
+    "Data": [
+        {
+            "Id": "2",
+            "Title": "Loan to Directors",
+            "SubTitle": "Loan to director\nName: Tan Ah Kau\nI/C: 09127802840480",
+            "RM": 287,
+            "Percent": "",
+            "Remarks": "",
+            "Comment": "* - Computation based on Interest Rates published by Bank Negara in Jul 2021;",
+            "Data": [
+                {
+                    "Title": "1/2021 ^ 100,000 ^ 3.44 ^ 0.00 ^ 100,000 x 3.44 % x 1/12",
+                    "RM": 287,
+                    "Percent": "",
+                    "Remarks": ""
+                },
+                {
+                    "Title": "2/2021 ^ 201,000 ^ 1.00 ^ 2.00 ^ 300,000 x 4.44 % x 1/12",
+                    "RM": 500,
+                    "Percent": "",
+                    "Remarks": ""
+                },
+                {
+                    "Title": "2/2021 ^ 201,000 ^ 1.00 ^ 2.00 ^ 300,000 x 4.44 % x 1/12",
+                    "RM": 500,
+                    "Percent": "",
+                    "Remarks": ""
+                }
+            ]
+        },
+        {
+            "Id": "2",
+            "Title": "Loan to Directors",
+            "SubTitle": "Loan to director\nName: Majid\nI/C: 09138238500",
+            "RM": 600,
+            "Percent": "",
+            "Remarks": "",
+            "Comment": "* - Computation based on Interest Rates published by Bank Negara in Jul 2021;",
+            "Data": [
+                {
+                    "Title": "5/2024 ^ 123,456 ^ 1.11 ^ 2.22 ^ 333,333 x 4.44 % x 5/55",
+                    "RM": 666,
+                    "Percent": "",
+                    "Remarks": ""
+                }
+            ]
+        },
+        {
+            "Id": "3",
+            "Title": "income S1",
+            "SubTitle": "Non allowable S1",
+            "RM": 222,
+            "Percent": "",
+            "Remarks": "",
+            "Comment": "",
+            "Data": null
+        },
+        {
+            "Id": "4",
+            "Title": "Rent",
+            "SubTitle": "Residential",
+            "RM": 48001,
+            "Percent": "",
+            "Remarks": "",
+            "Comment": "",
+            "Data": [
+                {
+                    "Title": "another rental \nproperty123. Jalan A\nSome Town",
+                    "RM": 6001,
+                    "Percent": "",
+                    "Remarks": ""
+                },
+                {
+                    "Title": "Unit 6-1-7\nSuria 6, Cyber Heights Villa\n56000 Cyberjaya\nSelangor",
+                    "RM": 42000,
+                    "Percent": "",
+                    "Remarks": ""
+                }
+            ]
+        }
+    ]
+}
